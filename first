@@ -1,0 +1,53 @@
+<html>
+    <title id="top">Pancakes!
+    </title>
+        <body style="font-family:cursive;">
+             <header style="background-color:lightyellow; color:black;">
+                <img src="https://www.wholesomeyum.com/wp-content/uploads/2017/03/wholesomeyum-Low-Carb-Keto-Pancakes-Recipe-21-500x500.jpg" height="50px"/ id="pancakes">
+            <a href="#how to make" style="color:black; font-size:15px;">how do we make it?</a> 
+            <a href="#most famous in" style="color:black; font-size:15px;">mostly found in?</a>
+            </header>   
+            <main>
+                <h1 style="color:#FFC900; text-align:center; font-size:50px; font-family:cursive;">Pancakes</h1>
+                <img src="https://handletheheat.com/wp-content/uploads/2019/02/The-Best-Pancake-Recipe-SQUARE-500x375.jpg" height="500px"> 
+                <h2 id="how to make">How to make it</h2>
+                <h3 style="color:red;">You likely already have everything you need to make this pancake recipe. If not, here's what to add to your grocery list:</h3>
+     <table style="font-size:20px;border:1px solid #4AE800; border-collapse:collapse">
+        <tr style="border:1px solid #4AE800; font-family:sans-serif;">
+            <td>Ingredients</td>
+            <td>Info</td>
+        </tr>
+        <tr style="border:1px solid #4AE800; font-family:sans-serif;">
+            <td>Flour:</td>
+            <td>This homemade pancake recipe starts with all-purpose flour</td>
+        </tr>
+        <tr style="border:1px solid #4AE800; font-family:sans-serif;">
+            <td>Backing Powder:</td>
+            <td> Baking powder, a leavener, is the secret to fluffy pancakes.</td>
+        </tr>
+        <tr style="border:1px solid #4AE800; font-family:sans-serif;">
+            <td>Sugar:</td>
+            <td>Just a tablespoon of white sugar is all you'll need for subtly sweet pancakes.</td>
+        </tr>
+        <tr style="border:1px solid #4AE800; font-family:sans-serif;">
+            <td>Salt:</td>
+            <td>A pinch of salt will enhance the overall flavor without making your pancakes taste salty.</td>
+        </tr>
+        <tr style="border:1px solid #4AE800; font-family:sans-serif;">
+            <td>Milk and Butter:</td>
+            <td>Milk and butter add moisture and richness to the pancakes.</td>    
+        </tr>
+        <tr style="border:1px solid #4AE800; font-family:sans-serif;">
+            <td>Eggs:</td>
+            <td>A whole egg lends even more moisture. Plus, it helps bind the pancake batter together.</td> 
+        </tr>       
+    </table>               
+                <h2 id="most famous in">Where it is mostly made in</h2>  
+                <p style="color:green; font-size:20px;">In Uganda, pancakes are locally made with bananas (one of the staple foods of the country) and usually served as a breakfast or as a snack option. East Asia.</p>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMSpBIlUgpgOpRn09gZnz2Zi3Bfa6ZTwLPg&s" height="500px">
+            </main>  
+        </body>  
+        <footer style="background-color:orange; font-color:black; font-size:15px;">
+            <a href="#top" style="color:black;">To the top of the page</a>
+        </footer>          
+</html>
